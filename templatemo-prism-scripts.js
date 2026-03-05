@@ -21,7 +21,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 2,
-                title: 'BAYERN CAMPEÃO',
+                title: 'BAYERN CAMPEÃO!',
                 description: 'Em sua campanha na champions league, Bayern consegue o feito incrível de ser campeão invicto, além de marcar 43 gols em 11 jogos',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['Recordes', '0 Derrotas', 'Bayern Munchen']
@@ -38,7 +38,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Cyber Defense',
                 description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
                 image: 'images/cyber-defense.jpg',
-                tech: ['Zero Trust', 'Chelsea', 'Encryption']
+                tech: ['Campeão', 'Chelsea', 'Recorde']
             },
             {
                 id: 5,
