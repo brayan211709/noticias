@@ -14,10 +14,10 @@ https://templatemo.com/tm-600-prism-flux
         const portfolioData = [
             {
                 id: 1,
-                title: 'Neural Network',
-                description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
+                title: 'BARCELONA 6x5 PSG',
+                description: 'Após a derrota por 4x0 na França, o time espanhol consegue ganhar no Camp Nou por 6x1 com uma atuação do craque brasileiro Neymar Jr.',
                 image: 'images/neural-network.jpg',
-                tech: ['TensorFlow', 'Python', 'CUDA']
+                tech: ['Champions League', 'Barcelona', 'Neymar']
             },
             {
                 id: 2,
