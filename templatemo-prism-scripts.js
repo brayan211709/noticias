@@ -21,17 +21,17 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 2,
-                title: 'Quantum Cloud',
-                description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
+                title: 'BAYERN GANHA CHAMPIONS E CONSEGUE UM RECORDE INACREDITÁVEL',
+                description: 'Em sua campanha na champions league, Bayern consegue o feito incrível de ser campeão invicto, além de marcar 43 gols em 11 jogos',
                 image: 'images/quantum-cloud.jpg',
-                tech: ['AWS', 'Kubernetes', 'Docker']
+                tech: ['Recordes', '0 Derrotas', 'Bayern Munchen']
             },
             {
                 id: 3,
-                title: 'Blockchain Vault',
-                description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
+                title: 'Cristiano Ronaldo faz um hat-trick no Atlético de Madrid e classifica a Juventus',
+                description: 'Após a derrota por 2x0 no jogo de ida, o craque português marca um hat-trick e na comemoração ele devolve a provocação de Diego Simeone feita no jogo anterior',
                 image: 'images/blockchain-vault.jpg',
-                tech: ['Ethereum', 'Solidity', 'Web3']
+                tech: ['Juventus', 'CR7', 'Virada']
             },
             {
                 id: 4,
