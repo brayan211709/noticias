@@ -38,7 +38,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Cyber Defense',
                 description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
                 image: 'images/cyber-defense.jpg',
-                tech: ['Zero Trust', 'AI Defense', 'Encryption']
+                tech: ['Zero Trust', 'Chelsea', 'Encryption']
             },
             {
                 id: 5,
