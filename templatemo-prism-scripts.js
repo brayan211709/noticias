@@ -21,14 +21,14 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 2,
-                title: 'BAYERN GANHA CHAMPIONS COM RECORDE INACREDITÁVEL',
+                title: 'BAYERN CAMPEÃO',
                 description: 'Em sua campanha na champions league, Bayern consegue o feito incrível de ser campeão invicto, além de marcar 43 gols em 11 jogos',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['Recordes', '0 Derrotas', 'Bayern Munchen']
             },
             {
                 id: 3,
-                title: 'CR7 vira contra o Atlético de Madrid e classifica a Juventus',
+                title: 'Juventus 3x0 Atlético de Madrid',
                 description: 'Após a derrota por 2x0 no jogo de ida, o craque português marca um hat-trick e na comemoração ele devolve a provocação de Diego Simeone feita no jogo anterior',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Juventus', 'CR7', 'Virada']
