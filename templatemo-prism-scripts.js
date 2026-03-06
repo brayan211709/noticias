@@ -29,14 +29,14 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 3,
                 title: 'Juventus 3x0 Atlético de Madrid',
-                description: 'Após a derrota por 2x0 no jogo de ida, o craque português marca um hat-trick e na comemoração ele devolve a provocação de Diego Simeone feita no jogo anterior',
+                description: 'Após a derrota por 2x0 no jogo de ida, o craque português marca um hat-trick e na comemoração devolve a provocação de Diego Simeone feita na Espanha',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Juventus', 'CR7', 'Virada']
             },
             {
                 id: 4,
-                title: 'Cyber Defense',
-                description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
+                title: 'CHELSEA CAMPEÃO DE UCL 20/21!',
+                description: 'Com 9 dos 13 jogos sem sofrer gols e apenas 4 gols sofridos, o Chelsea se sagra campeão da Champions 20/21',
                 image: 'images/cyber-defense.jpg',
                 tech: ['Campeão', 'Chelsea', 'Recorde']
             },
